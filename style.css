@@ -1,0 +1,56 @@
+body{
+	background: #CEB5A7;
+	color: #A6979C;
+	font-size: 18px;
+	text-align: center;
+	font-family: sans-serif,Zen Maru Gothic;}
+
+h1{
+	color: #B76D68;
+	font-size: 40px;
+	font-family: sans-serif,Zen Kaku Gothic Antique}
+
+h2{
+	color: #5D2A42;
+	font-size: 25px;}
+
+#profilephoto{
+	width: 200px;
+	border-radius: 50%}
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;}
+
+.icones {
+	font-size: 32px;}
+
+li {display: inline;}
+
+li > a {
+	color: #A6979C;}
+
+a:hover {
+	color: #DAFFEF;}
+
+.card {
+	background: #E0D2C3;
+	border-radius: 10px;
+	margin:20px auto;
+	padding: 3px;
+	padding-bottom: 15px;
+	padding-top: 5px;
+	width: 800px;
+	box-shadow: 4px 4px 7px #A6979C;}
+
+button {
+	background: #ADAABF;
+	border-color: #92828D;
+	font-family: sans-serif,Zen Kaku Gothic Antique;
+	font-size: 15px;
+	border-radius: 13px;}
+
+a {
+	text-decoration: none;
+	color: #3E4E50;}
