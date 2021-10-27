@@ -54,3 +54,10 @@ button {
 a {
 	text-decoration: none;
 	color: #3E4E50;}
+
+
+@media (max-width: 720px) {
+  .card {
+    width: 100%;
+  }
+}
